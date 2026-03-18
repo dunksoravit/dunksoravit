@@ -18,8 +18,8 @@ Most of my best ideas came from being in the wrong place. The dots connect event
 
 | Project | What it is |
 |---|---|
-| [SPECTRA](https://github.com/dunksoravit) | AI-powered deforestation detection. Sentinel-2/SAR imagery → hours, not months |
-| [IDC RoboCon 2025](https://github.com/dunksoravit) | Two competition robots in two weeks. SJTU, Shanghai |
+| SPECTRA | AI-powered deforestation detection. Sentinel-2/SAR imagery → hours, not months |
+| IDC RoboCon 2025 | Two competition robots in two weeks. SJTU, Shanghai |
 | [Touchless Pinball Machine](https://github.com/dunkdunkdunk/SESIAC_SmartToy) | Computer vision on Jetson Nano. Flippers controlled by gesture |
 | [Mechanical Acrylic Scooper](https://youtu.be/t8CXEmui4F4) | Reduced back-bending by 92.5%. CNC laser only, no 3D printing |
 | Buddybooster | English learning platform. 900+ students, 3 years running |
